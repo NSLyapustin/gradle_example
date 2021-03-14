@@ -1,0 +1,31 @@
+ru/itis/spring/repository/GroupRepository.java
+ ru.itis.spring.repository.GroupRepository
+ru/itis/spring/services/StudentService.java
+ ru.itis.spring.services.StudentService
+ru/itis/spring/model/User.java
+ ru.itis.spring.model.User
+ ru.itis.spring.model.User$UserBuilder
+ru/itis/spring/SpringDemoApplication.java
+ ru.itis.spring.SpringDemoApplication
+ru/itis/spring/controller/UserController.java
+ ru.itis.spring.controller.UserController
+ru/itis/spring/services/UserService.java
+ ru.itis.spring.services.UserService
+ru/itis/spring/model/Group.java
+ ru.itis.spring.model.Group
+ru/itis/spring/model/Student.java
+ ru.itis.spring.model.Student
+ru/itis/spring/repository/StudentRepository.java
+ ru.itis.spring.repository.StudentRepository
+ru/itis/spring/controller/GroupController.java
+ ru.itis.spring.controller.GroupController
+ru/itis/spring/services/StudentServiceImpl.java
+ ru.itis.spring.services.StudentServiceImpl
+ru/itis/spring/services/UserServiceImpl.java
+ ru.itis.spring.services.UserServiceImpl
+ru/itis/spring/services/GroupService.java
+ ru.itis.spring.services.GroupService
+ru/itis/spring/services/GroupServiceImpl.java
+ ru.itis.spring.services.GroupServiceImpl
+ru/itis/spring/controller/StudentController.java
+ ru.itis.spring.controller.StudentController
